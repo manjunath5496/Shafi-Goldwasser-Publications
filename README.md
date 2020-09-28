@@ -1,3 +1,136 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Shafi Goldwasser</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Shafi_Goldwasser.jpg"><img src="220px-Shafi_Goldwasser.jpg" srcset="220px-Shafi_Goldwasser.jpg" alt="Shafi Goldwasser.JPG" width="220" height="220" data-file-width="945" data-file-height="945" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Shafrira Goldwasser</div>
+<br />1958<br />
+<div class="birthplace"><a title="New York City" href="https://en.wikipedia.org/wiki/New_York_City">New York City</a>,&nbsp;<a title="New York (state)" href="https://en.wikipedia.org/wiki/New_York_(state)">New York</a>, U.S.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a class="mw-redirect" title="Israeli American" href="https://en.wikipedia.org/wiki/Israeli_American">Israeli American</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Carnegie Mellon University" href="https://en.wikipedia.org/wiki/Carnegie_Mellon_University">Carnegie Mellon University</a>&nbsp;(BS)</li>
+<li><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a>&nbsp;(PhD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Blum&ndash;Goldwasser cryptosystem" href="https://en.wikipedia.org/wiki/Blum%E2%80%93Goldwasser_cryptosystem">Blum&ndash;Goldwasser cryptosystem</a></li>
+<li><a title="Goldwasser&ndash;Micali cryptosystem" href="https://en.wikipedia.org/wiki/Goldwasser%E2%80%93Micali_cryptosystem">Goldwasser&ndash;Micali cryptosystem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Grace Murray Hopper Award" href="https://en.wikipedia.org/wiki/Grace_Murray_Hopper_Award">Grace Murray Hopper Award</a>&nbsp;(1996)</li>
+<li><a title="G&ouml;del Prize" href="https://en.wikipedia.org/wiki/G%C3%B6del_Prize">G&ouml;del Prize</a>&nbsp;(1993, 2001)</li>
+<li><a title="IEEE Emanuel R. Piore Award" href="https://en.wikipedia.org/wiki/IEEE_Emanuel_R._Piore_Award">IEEE Emanuel R. Piore Award</a>&nbsp;(2011)</li>
+<li><a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">ACM Turing Award</a>&nbsp;(2012)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a>,&nbsp;<a title="Cryptography" href="https://en.wikipedia.org/wiki/Cryptography">cryptography</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a></li>
+<li><a title="Weizmann Institute of Science" href="https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science">Weizmann Institute of Science</a></li>
+<li><a title="Simons Institute for the Theory of Computing" href="https://en.wikipedia.org/wiki/Simons_Institute_for_the_Theory_of_Computing">Simons Institute for the Theory of Computing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://search.proquest.com/docview/303337869" rel="nofollow"><em>Probabilistic Encryption: Theory and Applications</em></a>&nbsp;(1984)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Manuel Blum" href="https://en.wikipedia.org/wiki/Manuel_Blum">Manuel Blum</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Elette Boyle" href="https://en.wikipedia.org/wiki/Elette_Boyle">Elette Boyle</a></li>
+<li><a title="Johan H&aring;stad" href="https://en.wikipedia.org/wiki/Johan_H%C3%A5stad">Johan H&aring;stad</a></li>
+<li><a title="Yael Tauman Kalai" href="https://en.wikipedia.org/wiki/Yael_Tauman_Kalai">Yael Tauman Kalai</a></li>
+<li><a title="Amit Sahai" href="https://en.wikipedia.org/wiki/Amit_Sahai">Amit Sahai</a></li>
+<li><a class="new" title="Joe Kilian (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Joe_Kilian&amp;action=edit&amp;redlink=1">Joe Kilian</a></li>
+<li><a class="new" title="Bill Aiello (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Bill_Aiello&amp;action=edit&amp;redlink=1">Bill Aiello</a></li>
+<li><a class="new" title="Yishai Mansour (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Yishai_Mansour&amp;action=edit&amp;redlink=1">Yishai Mansour</a></li>
+<li><a class="new" title="Adi Akavia (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Adi_Akavia&amp;action=edit&amp;redlink=1">Adi Akavia</a></li>
+<li><a class="new" title="Tal Malkin (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Tal_Malkin&amp;action=edit&amp;redlink=1">Tal Malkin</a></li>
+<li><a class="new" title="Daniele Micciancio (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Daniele_Micciancio&amp;action=edit&amp;redlink=1">Daniele Micciancio</a></li>
+<li><a class="new" title="Vinod Vaikuntanathan (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Vinod_Vaikuntanathan&amp;action=edit&amp;redlink=1">Vinod Vaikuntanathan</a></li>
+<li><a class="new" title="Guy Rothblum (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Guy_Rothblum&amp;action=edit&amp;redlink=1">Guy Rothblum</a></li>
+<li><a class="new" title="Zvika Brakerski (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Zvika_Brakerski&amp;action=edit&amp;redlink=1">Zvika Brakerski</a></li>
+<li><a class="mw-disambig" title="David Wilson" href="https://en.wikipedia.org/wiki/David_Wilson">David Wilson</a></li>
+<li><a class="new" title="Stanislaw Jarecki (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Stanislaw_Jarecki&amp;action=edit&amp;redlink=1">Stanislaw Jarecki</a></li>
+<li><a title="Salil Vadhan" href="https://en.wikipedia.org/wiki/Salil_Vadhan">Salil Vadhan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><span class="url"><a class="external text" href="http://people.csail.mit.edu/shafi" rel="nofollow">people<wbr />.csail<wbr />.mit<wbr />.edu<wbr />/shafi</a></span></li>
+<li><span class="url"><a class="external text" href="http://www.wisdom.weizmann.ac.il/~shafi" rel="nofollow">www<wbr />.wisdom<wbr />.weizmann<wbr />.ac<wbr />.il<wbr />/~shafi</a></span></li>
+<li><span class="url"><a class="external text" href="http://www.eecs.mit.edu/people/faculty/shafrira-goldwasser" rel="nofollow">www<wbr />.eecs<wbr />.mit<wbr />.edu<wbr />/people<wbr />/faculty<wbr />/shafrira-goldwasser</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><strong>Shafrira "Shafi" Goldwasser</strong>&nbsp;(<a title="Hebrew language" href="https://en.wikipedia.org/wiki/Hebrew_language">Hebrew</a>:&nbsp;<span dir="rtl" lang="he">שפרירה גולדווסר</span>&lrm;; born 1958) is an&nbsp;<a class="mw-redirect" title="Israeli-American" href="https://en.wikipedia.org/wiki/Israeli-American">Israeli-American</a>&nbsp;computer scientist and winner of the&nbsp;<a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;in 2012. She is the RSA Professor of Electrical Engineering and Computer Science at&nbsp;<a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">MIT</a>,&nbsp;a professor of mathematical sciences at the&nbsp;<a title="Weizmann Institute of Science" href="https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science">Weizmann Institute of Science</a>,&nbsp;<a title="Israel" href="https://en.wikipedia.org/wiki/Israel">Israel</a>, co-founder and chief scientist of&nbsp;<a class="new" title="Duality Technologies (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Duality_Technologies&amp;action=edit&amp;redlink=1">Duality Technologies</a>&nbsp;and the director of the&nbsp;<a title="Simons Institute for the Theory of Computing" href="https://en.wikipedia.org/wiki/Simons_Institute_for_the_Theory_of_Computing">Simons Institute for the Theory of Computing</a>&nbsp;in Berkeley, CA.</p>
+
+
+</br>
+<h2>Publications </h2>
+
+
+
 <ul>
 <li>Goldwasser, S. and Micali, S.&nbsp;<strong>Probabilistic Encryption</strong>. Special issue of&nbsp;<em>Journal of Computer and Systems Sciences</em>, Vol. 28, No. 2, pages 270-299, April 1984.&nbsp;<a href="1984-jcss.pdf" data-smd-id="s3">.pdf</a></li>
 <li>Goldreich, O., Goldwasser, S., and Micali S.&nbsp;<strong>How to Construct Random Functions</strong>.&nbsp;<em>Journal of the ACM</em>, vol. 33, no. 4, pages 792-807, October 1986.&nbsp;<a href="1986-jacm.pdf" data-smd-id="s4">.pdf</a></li>
